@@ -5,13 +5,15 @@
 ## Requirements
   To run the notebook, you need to have the following installed:
 
-    Python 3.x
-    Jupyter Notebook
-    Required Python libraries 
+* Python 3.x
+* Jupyter Notebook
+* Required Python libraries
+  
+      pip install numpy imageio matplotlib scipy
     
 You can install the required packages using pip:
 
-    pip install numpy imageio matplotlib scipy
+      pip install -r requirements.txt    
 
 ## Getting Started
 
@@ -30,7 +32,3 @@ Launch Jupyter Notebook and open homework3.ipynb:
 ### Run the cells:
 
 Execute the cells in the notebook sequentially to reproduce the results and analyses.
-
-## License
-
-This project is for academic purposes. If you intend to reuse the code, please cite the original source accordingly.
