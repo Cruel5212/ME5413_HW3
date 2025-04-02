@@ -19,9 +19,7 @@ You can install the required packages using pip:
 
 ### Clone the repository:
    
-    git clone https://github.com/yourusername/your-repo-name.git
-   
-    cd your-repo-name
+    git clone https://github.com/Cruel5212/ME5413_HW3
 
 ### Open the notebook:
 
